@@ -7,7 +7,7 @@ def test_subtract():
     b = 12
     c = a  - b
     
-    assert  c == 1
+    assert  c == 8
 
     
 
